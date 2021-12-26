@@ -1,2 +1,14 @@
 Hello!
-My name is Derizqiadi Thoriq, 
+My name is Derizqiadi Thoriq, student of Yogyakarta State University Gunung Kidul campus.
+My NIM is 21507224030 and from GK1 class.
+
+This repository was created to place the assignments that i was made while i was studying in the "Gambar Teknik" course in Semester 1.
+This repository including :
+
+1. Schematics assignment where i compile the components in the eagle application in schematic (.sch) form.
+2. KMMI assignment where i arrange components in "board" (.brd) form and connect between components so that they can be used.
+3. LF (Tugas Akhir) assignment where i arrange the components that have been provided. After that i connected the components on the coard (.brd) file, so that the components can be used.
+4. Tugas Komponen, where i put the task that has been given previously ( tugas komponen, dan tugas adc_with_LDR).
+
+Thank you for viewing my github repository page, i hope that what i upload on this page can be useful for other people, and i also hope to add more files to my repository and increase my skill in "Gambar Teknik" course.
+
